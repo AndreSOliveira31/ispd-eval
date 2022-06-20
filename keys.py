@@ -1,0 +1,11 @@
+class Keys:
+	NET = 'net_name'
+	TYPE = 'type'
+	LAYER = 'l'
+	LOWER_X = 'xl'
+	LOWER_Y = 'yl'
+	UPPER_X = 'xh'
+	UPPER_Y = 'yh'
+	WIRE = 'wire'
+	VIA = 'via'
+	PATCH = 'patch'
